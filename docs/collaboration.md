@@ -1,3 +1,6 @@
+
+Collaboration requires clear communication and well-defined responsibilities.
+
 # Collaboration Guidelines
 
 Collaboration requires clear communication and well-defined responsibilities.
